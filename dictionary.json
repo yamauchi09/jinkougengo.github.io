@@ -1,0 +1,18 @@
+[
+  {
+    "word": "salan",
+    "part_of_speech": "noun",
+    "meaning": "peace",
+    "pronunciation": "saˈlan",
+    "example": "Salan enar!",
+    "notes": "Used as both greeting and farewell."
+  },
+  {
+    "word": "enar",
+    "part_of_speech": "pronoun",
+    "meaning": "you (singular)",
+    "pronunciation": "eˈnar",
+    "example": "Salan enar!",
+    "notes": "Singular informal form."
+  }
+]
